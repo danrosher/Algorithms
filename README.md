@@ -1,5 +1,6 @@
 # Algorithms
 
-My solutions to [Algorithms, 4th Edition](https://algs4.cs.princeton.edu/home/) 
+My solutions to [Algorithms, 4th Edition](https://algs4.cs.prin
+ceton.edu/home/) 
 
-![Algorithms, 4th Edition](https://algs4.cs.princeton.edu/cover.png)
+<img src="https://algs4.cs.princeton.edu/cover.png" height="100">
