@@ -6,6 +6,14 @@ public class Ex1120 {
         return N==1 ? acc : fac(N-1,acc*N);
     }
 
+    public static long fac2(int N){
+        long acc = 1;
+        while ( N > 1){
+            acc *= N;N--;
+        }
+        return acc;
+    }
+
     public static double ln(int N){
         return Math.log(fac(N,1));
     }
