@@ -52,6 +52,5 @@ public class Ex1129 {
         StdOut.println(count(8,a));//2
         StdOut.println(count(9,a));//0
 
-
     }
 }
