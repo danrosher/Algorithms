@@ -1,11 +1,8 @@
 package Chapter1;
 
-import edu.princeton.cs.algs4.In;
-import edu.princeton.cs.algs4.StdIn;
 import edu.princeton.cs.algs4.StdOut;
 
 import java.util.Arrays;
-import java.util.Collections;
 
 public class Ex1129 {
 
